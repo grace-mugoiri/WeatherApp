@@ -11,7 +11,7 @@ A web-based app that uses the OpenWeatherMap API to pull the daily forecast for 
 - SQLAlchemy
 
 ## Live version
-View the project on your browser here. (#)
+View the project on your browser here. ()
 
 ## Contributors
 
@@ -29,4 +29,5 @@ This is a solo project by: [Grace Mugoiri](https://github.com/grace-mugoiri)
 After cloning, go to your terminal and start the server using flask run. (Make sure you have your environment running)
 
 ## screenshot sample of the page
-<#>
+<img width="1370" alt="Screenshot 2022-08-22 at 18 36 50" src="https://user-images.githubusercontent.com/20679425/185961274-6daec320-88d3-43c1-95e1-3ec4707391ef.png">
+
