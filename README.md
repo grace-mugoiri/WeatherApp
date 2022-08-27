@@ -11,7 +11,7 @@ A web-based app that uses the OpenWeatherMap API to pull the daily forecast for 
 - SQLAlchemy
 
 ## Live version
-View the project on your browser here. ()
+View the project on your browser here. (https://cheki-weather.herokuapp.com/)
 
 ## Contributors
 
